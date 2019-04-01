@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>07C74D6D-3BA9-4101-BAB7-4C4885DB7BBC</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>07C74D6D-3BA9-4101-BAB7-4C4885DB7BBC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>UserLogin project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UserLogin</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project UserLogin with scheme UserLogin and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>575142057.14552498</real>
+			<key>timeStoppedRecording</key>
+			<real>575142058.83093703</real>
+			<key>title</key>
+			<string>Building project UserLogin with scheme UserLogin and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>07C74D6D-3BA9-4101-BAB7-4C4885DB7BBC</string>
+		</dict>
+		<key>795857AC-E06A-4C4D-9682-5198E3BFDE2A</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>795857AC-E06A-4C4D-9682-5198E3BFDE2A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>UserLogin project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>UserLogin</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project UserLogin with scheme UserLogin and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>575132146.45865798</real>
+			<key>timeStoppedRecording</key>
+			<real>575132153.17809796</real>
+			<key>title</key>
+			<string>Building project UserLogin with scheme UserLogin and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>795857AC-E06A-4C4D-9682-5198E3BFDE2A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
